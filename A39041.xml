@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Execution of Ed. Fitz-Harris and Oliver Plunket who was conveyed, one from the Tower and the other from Newgate, on the 1st of July to Tyburn upon a sledg, and there hang'd and quartered for high-treason in conspiring the death of His Most Sacred Majesty, to subvert the government by endeavouring to raise rebellion, and to introduce an army to establish popery and arbitrary power and destroy the Protestants : with the manner of his behaviour in the Tower and at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39041</idno>
+            <idno type="STC">Wing E3850A</idno>
+            <idno type="STC">ESTC R1935</idno>
+            <idno type="EEBO-CITATION">12265327</idno>
+            <idno type="OCLC">ocm 12265327</idno>
+            <idno type="VID">58035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58035)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 184:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Execution of Ed. Fitz-Harris and Oliver Plunket who was conveyed, one from the Tower and the other from Newgate, on the 1st of July to Tyburn upon a sledg, and there hang'd and quartered for high-treason in conspiring the death of His Most Sacred Majesty, to subvert the government by endeavouring to raise rebellion, and to introduce an army to establish popery and arbitrary power and destroy the Protestants : with the manner of his behaviour in the Tower and at the place of execution.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzharris, Edward, 1648?-1681.</term>
+               <term>Plunket, Oliver, --  Saint, 1629-1681.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:58035:1"/>
+            <head>THE EXECUTION OF Ed. Fitz-Harris, And OLIVER PLUNKET, Who was conveyed one from the <hi>Tower</hi> and the other from <hi>Newgate</hi> on the 1ſt of <hi>July.</hi> TO TYBURN Upon a SLEDG.</head>
+            <head type="sub">And there Hang'd and Quartered for High-Treaſon. In Con<g ref="char:EOLhyphen"/>ſpiring the Death of his moſt Sacred Majeſty, to ſubvert the Government, by endeavouring to raiſe Rebellion, and to introduce an Army to eſtabliſh Popery and Arbitrary Pow<g ref="char:EOLhyphen"/>er, and deſtroy the Proteſtants. With the manner of his Be<g ref="char:EOLhyphen"/>haviour in the <hi>Tower,</hi> and at the place of Execution.</head>
+            <p>IT is ſeldome known, but one time or other, Juſtice meets with thoſe men, who as it were ſell themſelves to do Miſchief even when they think they are moſt ſecure, then their black Deſigns and hel<g ref="char:EOLhyphen"/>liſh practices are brought to Light, for what height or depth can abſcond from the allſeeing Eye; Darkneſs and Light to him are equal, and nothing can be done without his ſufferance but theſe things. It is to be ſuppoſed, men that ventures upon all Treaſonable and Villa<g ref="char:EOLhyphen"/>nous Deſigns, as to depopulate Kingdoms, by horrid Maſſacres, to raiſe Rebellion, and ſet the Nations in a Flame, do not conſider, or if they do, as the Prophet ſays, <hi>They put far away the evil day,</hi> and hope at laſt to eſcape due puniſhment, but moſt commonly are deceived, as here we ſhall inſtance in <hi>Edward Fitz-Harris,</hi> the ſon (as he ſaith) of Sir <hi>Edward Fitz-Harris,</hi> born in the Kingdom of <hi>Ireland,</hi> and there brought up in the Burniſh Religion, ſo conſequently the better quallified for ſuch dia<g ref="char:EOLhyphen"/>bolick practiſes and treaſonable Deſigns, for which he is now juſtly brought to ſuffer death.</p>
+            <pb n="2" facs="tcp:58035:2"/>
+            <p>The ſum of his moſt deteſtable Crime is, that he un<g ref="char:EOLhyphen"/>dertaking to perfect what the bloudy Jeſuites and the reſt of the Popiſh-Locuſt had begun, came about the 21 of <hi>Eeb.</hi> laſt to the Chamber of Mr. <hi>Everard,</hi> one of the Diſcoverers and there began to tamper with him; firſt to try how he ſtood affected, and the more to iuſinuate into his good Opinion of him, he began to comiſerate his hard uſage ſince he eſpouſed the Proteſtant Intereſt, ſaying he lived far better in the <hi>French</hi> Kings Service, and if he would again come over to the Papiſts he ſhould yet have not only a large reward, but alſo a yearly Penſion. Then falling from that, enquired if he did not write a Paper, pretended to be an Anſwer to his Majeſties moſt Gracious Declaration, the which as he ſaid, he was informed he did, but Mr. <hi>Everard</hi> utterly denying it, he fell from that likewiſe, and debated about giving Birth to ſo notorious and Treaſonable a Libel, that the like has not been known in any Age, Intituled <hi>The True Engliſh-mans ſpeaking true Engliſh.</hi> In which he endeavoured not only to render the King odious to his Supjects, but likewilſe to fix a notorious and falſe ſcandal upon his Royal Grandfather, and Father of ever Bleſſed Memory, of their deſigning during their Reigns to eſtabliſh Popery and Arbitrary power: to lay a Blot on his Majeſties Royal Poſterity, to raiſe Rebellion and ſet the Nation in a Blaze, by ſtirring all ſorts and conditions of people, unanimouſly to Riſe and deſtroy each other, under prerence of ſecuring their Liberties and properties, and whilſt this was doing, as the end and ſcope of all, A French Army was to Land, and overflow us like a Deluge waſting with Fire and Sword, whilſt they left not a Proteſtant remaining in the Land, then Popery was to be introduced, and eſtabliſhed.</p>
+            <p>This was the purport of his Helliſh Deſign, and this he got Mr. <hi>Everard</hi> to put into a form for him, telling him for ſo doing, he ſhould have 40 Guinies and that the French Embaſſadors Confeſſor was to manage the Affair, and that Mr, <hi>Everard</hi> ſhould have ſome thouſands of Crowns for his Service, and become a Pentioner to the French King. And that ſeveral hunderds of thoſe dangerous Libels were to be Coppied out, and put into the Pockets of ſuch Lords and Commons which were moſt adverſe to their party and then to have Ruffians at hand to apprehend and ſwear againſt them This was no doubt the ſecond part of <hi>Dangerfields</hi> Plot, and would have proved more ſatal, had it taken Effect;</p>
+            <pb n="3" facs="tcp:58035:3"/>
+            <p>For it was to have been managed under the name of the Noncon-formiſt, but as God would have it, Mr. <hi>Everard</hi> was more honeſt and tender-Conſcienced, than to be any ways Inſtrumental in bringing ſo cruel a deſtruction upon his Native Country, and thereupon diſcovered the deſigne to ſeveral worthy Gentlemen, but in fine to Sir <hi>Walliam Waller,</hi> and Mr. <hi>Smith,</hi> one of the Diſcoverers, who at an appointed time came (but not both at once) and being placed by Mr. <hi>Everard</hi> ſo that they both ſee and hear what paſſed in the next Room, they were at ſeveral times Eve and Ear-witneſſes to the Traytors Intentions, who little (at thoſe times) dreamed that his Villany was ſo near detection, for theſe worth Gentlemen after ſometime given to make the Diſcovery, that it might appear more plain to the World, cauſed him to be apprehended, who after ſome ſhort Examination, (the Treaſon being made plain againſt him) was committed to <hi>Newgate,</hi> and then to the Tower, but in little time the Parliament ſitting at <hi>Oxford,</hi> the Houſe of Commons receiving his Examina<g ref="char:EOLhyphen"/>tion thought fit to impeach him of High Treaſon, whereupon being brought to the <hi>Kings Bench</hi> Bar, in Order to his Tryal he pleaded to the Juriſdiction of the Court, but his Plea after long debate being over ruled he was on the 9th of <hi>June</hi> laſt brought from the Tower, and there received his Tryal, where the forementioned, and many more horrid Treaſons were proved againſt him. So that after a ſhort Debate, the Jury brought him in Guilty of High-treaſon, and on the 15th following, he with <hi>Oliver Plunket;</hi> Titular, Primate of <hi>Ireland,</hi> received Sentance of Death, which was to be conveyed to the places from whence they came, and from thence to the common place of Execu<g ref="char:EOLhyphen"/>tion, there to hang'd by the Neck, and then cut down alive his Privy members to be cut off, his Bowels to be taken out and burnt before his Face, his Head to be ſevered form his Body, his four quarters to be divided, and to be diſpoſed of as his Majeſty ſhall think fit, after this dreadfull, but juſt Sentance, had paſſed upon him, he began to look ſad, as altogether diſpairing to optain Mercy from his Soveraign, whom he had ſo infinitely offended, then being conveyed to the Tower during the Reſpit, he behaveed himſelf as a Man ſenſible of his great and grievous Crimes, no doubt reflecting on what a Deluge of innocent Blood his wicked parctices were within few days to have ſhed if they had taken effect.</p>
+            <pb n="4" facs="tcp:58035:4" rendition="simple:additions"/>
+            <p>And ſhewing much ſeeming ſorrow, that he had as he faith, by the ve<g ref="char:EOLhyphen"/>ry Principles of his Religion, been perſwaded to offend ſo good a King. During the reſpit in the Tower ſeveral worthy perſons were to viſit him, among which, were ſome Proteſtant Miniſters, who gave him the beſt conſolation they could, as to his eternal welfare, adjuring him that he would not in any wiſe add Guilt to Guilt, in accuſing falſly any perſon, but that he would humble himſelf, and ſeek a pardon from God for his many great and grievous Crimes, and eſpecially for thoſe which had brought him under the hand of juſtice, for which, he was to ſuffer, and to render thanks to God that he had prevented him, in being inſtrumen<g ref="char:EOLhyphen"/>tal to the ſhedding of ſo much innocent blood, as was intended, to which he anſwered, he had been a perverſe Liver, and that by reaſon of his wicked Life, he concluded God had given him up to hearken to the evil Counſels of ſuch men as had taught him to caſt off all allegiance and duty to his Soveraign, and all pitty and compaſſion to his fellow Subjects, and though he could hope for no mercy from a Prince he had ſo infinitely abus'd, yet he hoped that God would at laſt take pitty on his Soul, deſiring forgiveneſs of all he had offended, as he freely forgave all that had been the occaſion of drawing him into the Crimes for which he ſuffered.</p>
+            <p>The next Capital Traytor (whoſe wicked Deſigns had they taken ef<g ref="char:EOLhyphen"/>fect, had inevitably ruined the Kingdom of <hi>Ireland,</hi> by reducing it to a far worſe condition then when the bloody Papiſts triumphed over the Maſ<g ref="char:EOLhyphen"/>ſacred Proteſtants) <hi>viz. Oliver Plunket</hi> whom the Pope had created Arch-Biſhop of <hi>Dublin,</hi> as it is thought for no other end, then to carry on his Helliſh Deſigns of Murther and ſubverſion, for having the Popes Com<g ref="char:EOLhyphen"/>miſſion, he was owned as head of the Conſpirators, and endeavoured to bring in and eſtabliſh Popery and Arbytrary power, in order to which, having levied vaſt ſums of money, Treated with the French about Land<g ref="char:EOLhyphen"/>ing an Army of 70000 men to joyn with ſuch Papiſts as ſhould be in rea<g ref="char:EOLhyphen"/>dineſs, and to deliver up <hi>Carligan,</hi> and ſome other Seaport-Towns, for their more convenient landing, but e're theſe Traiterous Deſigns could take Birth, they were diſcovered by ſome of thoſe Prieſts that he had intruſted with the helliſh ſecret. For which being apprehended in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> was brought over and tryed at the Kings-bench-Bar, where, upon full Teſtimony againſt him, he was caſt and condemned, after which he was remanded to <hi>Newgate,</hi> when his Friends came to viſit him, many perſwaded him not to be daunted, but to continue obſtinate in his own vindication, but notwithſtanding, when he came to the place of Execution, he was very much dejected, and 'tis thought would have made ſome Confeſſion, had he not ſeen ſo many weeping Catholicks pre<g ref="char:EOLhyphen"/>ſent. So after ſome private ejaculations to himſelf, the Executioner did his Office.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> D. Mallet.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
